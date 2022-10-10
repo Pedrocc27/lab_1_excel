@@ -1,4 +1,4 @@
-# lab_1_excel
+# Lab_1_excel
 
 
 ## Questions 1.2.1
